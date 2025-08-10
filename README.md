@@ -95,7 +95,7 @@ Implements Riverpod state management:
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/flutter_riverpod_todo.git
+git clone https://github.com/Akindolie/todo.git
 cd flutter_riverpod_todo
 flutter pub get
 
